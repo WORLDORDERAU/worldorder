@@ -1,0 +1,5 @@
+Issued To	Issued By	Expiration Date	Intended Purposes	Friendly Name	Status	Certificate Template
+BOARD.THERESA.D.1232108602	DOD EMAIL CA-32	25/11/2017	Smart Card Logon, Client Authentication, Secure Email	<None>	R   	
+BOARD.THERESA.D.1232108602	DOD EMAIL CA-32	25/11/2017	<All>	<None>	R   	
+DOD EMAIL CA-32	DoD Root CA 2	5/02/2019	<All>	<None>	R   	
+DoD Root CA 2	DoD Root CA 2	6/12/2029	<All>	<None>	R   	
